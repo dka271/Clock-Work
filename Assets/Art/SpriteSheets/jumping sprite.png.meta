@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: 05f7e6eba63c70747a880c70e0e2332b
+timeCreated: 1454177819
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jumping sprite_0
+    21300002: jumping sprite_1
+    21300004: jumping sprite_2
+    21300006: jumping sprite_3
+    21300008: jumping sprite_4
+    21300010: jumping sprite_5
+    21300012: jumping sprite_6
+    21300014: jumping sprite_7
+    21300016: jumping sprite_8
+    21300018: jumping sprite_9
+    21300020: jumping sprite_10
+    21300022: jumping sprite_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jumping sprite_0
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1820
+        width: 125
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 59}
+        - {x: -50.5, y: 59}
+        - {x: -62.5, y: 55}
+        - {x: -62.5, y: -5}
+        - {x: -33.5, y: -59}
+        - {x: 15.5, y: -59}
+        - {x: 15.5, y: -56}
+        - {x: 62.5, y: 10}
+        - {x: 62.5, y: 40}
+    - name: jumping sprite_1
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1820
+        width: 136
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 7.5}
+        - {x: 68, y: 19.5}
+        - {x: 30, y: 49.5}
+        - {x: 28, y: 50.5}
+        - {x: 5, y: 50.5}
+        - {x: 1, y: 44.5}
+        - {x: 8, y: 27.5}
+        - {x: 15, y: 30.5}
+        - {x: 19, y: 32.5}
+        - {x: 9, y: 22.5}
+        - {x: -68, y: 41.5}
+        - {x: -68, y: 15.5}
+        - {x: -55, y: -0.5}
+        - {x: -12, y: -42.5}
+        - {x: -7, y: -44.5}
+        - {x: -9, y: -43.5}
+        - {x: -12, y: -43.5}
+        - {x: -14, y: -45.5}
+        - {x: -15, y: -50.5}
+        - {x: 24, y: -50.5}
+        - {x: 24, y: -47.5}
+        - {x: 21, y: -44.5}
+        - {x: 29, y: -22.5}
+    - name: jumping sprite_2
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1820
+        width: 136
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 32}
+        - {x: 32, y: 59}
+        - {x: 3, y: 59}
+        - {x: -1, y: 53}
+        - {x: 6, y: 36}
+        - {x: 13, y: 39}
+        - {x: 17, y: 41}
+        - {x: 18, y: 44}
+        - {x: 17, y: 40}
+        - {x: 12, y: 38}
+        - {x: 9, y: 23}
+        - {x: -68, y: 45}
+        - {x: -68, y: 0}
+        - {x: -40, y: -59}
+        - {x: 24, y: -59}
+        - {x: 24, y: -56}
+        - {x: 21, y: -53}
+        - {x: 68, y: 20}
+    - name: jumping sprite_3
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1826
+        width: 119
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 56}
+        - {x: -9.5, y: 50}
+        - {x: -2.5, y: 33}
+        - {x: 4.5, y: 36}
+        - {x: 8.5, y: 38}
+        - {x: 9.5, y: 41}
+        - {x: 8.5, y: 38}
+        - {x: -2.5, y: 32}
+        - {x: -32.5, y: 39}
+        - {x: -59.5, y: 46}
+        - {x: -59.5, y: -8}
+        - {x: -28.5, y: -55}
+        - {x: -23.5, y: -56}
+        - {x: 18.5, y: -56}
+        - {x: 59.5, y: 4}
+        - {x: 59.5, y: 56}
+    - name: jumping sprite_4
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1816
+        width: 119
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 52.5}
+        - {x: -9.5, y: 46.5}
+        - {x: -2.5, y: 29.5}
+        - {x: 4.5, y: 32.5}
+        - {x: 8.5, y: 34.5}
+        - {x: 9.5, y: 37.5}
+        - {x: 8.5, y: 34.5}
+        - {x: -2.5, y: 28.5}
+        - {x: -47.5, y: 41.5}
+        - {x: -59.5, y: 40.5}
+        - {x: -59.5, y: -3.5}
+        - {x: -37.5, y: -28.5}
+        - {x: -30.5, y: -33.5}
+        - {x: -29.5, y: -44.5}
+        - {x: -26.5, y: -52.5}
+        - {x: 27.5, y: -52.5}
+        - {x: 59.5, y: 7.5}
+        - {x: 59.5, y: 38.5}
+        - {x: 22.5, y: 52.5}
+    - name: jumping sprite_5
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1816
+        width: 119
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 52.5}
+        - {x: -2.5, y: 52.5}
+        - {x: -9.5, y: 46.5}
+        - {x: -2.5, y: 29.5}
+        - {x: 4.5, y: 32.5}
+        - {x: 8.5, y: 34.5}
+        - {x: 9.5, y: 37.5}
+        - {x: 8.5, y: 34.5}
+        - {x: -2.5, y: 28.5}
+        - {x: -32.5, y: 35.5}
+        - {x: -57.5, y: 40.5}
+        - {x: -59.5, y: 39.5}
+        - {x: -59.5, y: -10.5}
+        - {x: -46.5, y: -40.5}
+        - {x: -22.5, y: -52.5}
+        - {x: 14.5, y: -52.5}
+        - {x: 38.5, y: -46.5}
+        - {x: 59.5, y: -2.5}
+        - {x: 59.5, y: 29.5}
+    - name: jumping sprite_6
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1815
+        width: 119
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 55.5}
+        - {x: -9.5, y: 49.5}
+        - {x: -2.5, y: 32.5}
+        - {x: 4.5, y: 35.5}
+        - {x: 8.5, y: 37.5}
+        - {x: 9.5, y: 40.5}
+        - {x: 8.5, y: 37.5}
+        - {x: -2.5, y: 31.5}
+        - {x: -47.5, y: 44.5}
+        - {x: -59.5, y: 44.5}
+        - {x: -59.5, y: -10.5}
+        - {x: -27.5, y: -55.5}
+        - {x: 1.5, y: -55.5}
+        - {x: 35.5, y: -40.5}
+        - {x: 59.5, y: 3.5}
+        - {x: 59.5, y: 32.5}
+        - {x: 16.5, y: 55.5}
+    - name: jumping sprite_7
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1812
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.5, y: 12}
+        - {x: 59.5, y: 34}
+        - {x: 16.5, y: 57}
+        - {x: -2.5, y: 57}
+        - {x: -9.5, y: 51}
+        - {x: -2.5, y: 34}
+        - {x: 4.5, y: 37}
+        - {x: 8.5, y: 39}
+        - {x: 9.5, y: 42}
+        - {x: 8.5, y: 39}
+        - {x: -2.5, y: 33}
+        - {x: -47.5, y: 46}
+        - {x: -59.5, y: 46}
+        - {x: -59.5, y: -8}
+        - {x: -18.5, y: -57}
+        - {x: 5.5, y: -57}
+        - {x: 10.5, y: -56}
+        - {x: 28.5, y: -41}
+        - {x: 26.5, y: -34}
+        - {x: 23.5, y: -33}
+    - name: jumping sprite_8
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 1808
+        width: 119
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -43.5}
+        - {x: 59.5, y: 16.5}
+        - {x: 59.5, y: 38.5}
+        - {x: 16.5, y: 61.5}
+        - {x: -2.5, y: 61.5}
+        - {x: -9.5, y: 55.5}
+        - {x: -2.5, y: 38.5}
+        - {x: 4.5, y: 41.5}
+        - {x: 8.5, y: 43.5}
+        - {x: 9.5, y: 46.5}
+        - {x: 8.5, y: 43.5}
+        - {x: -2.5, y: 37.5}
+        - {x: -59.5, y: 53.5}
+        - {x: -59.5, y: 0.5}
+        - {x: -17.5, y: -61.5}
+        - {x: 17.5, y: -61.5}
+        - {x: 23.5, y: -58.5}
+        - {x: 26.5, y: -51.5}
+        - {x: 23.5, y: -48.5}
+    - name: jumping sprite_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1650
+        width: 136
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 18.5}
+        - {x: 68, y: 30.5}
+        - {x: 32, y: 57.5}
+        - {x: 3, y: 57.5}
+        - {x: -1, y: 51.5}
+        - {x: 6, y: 34.5}
+        - {x: 13, y: 37.5}
+        - {x: 17, y: 39.5}
+        - {x: 18, y: 42.5}
+        - {x: 17, y: 38.5}
+        - {x: 12, y: 36.5}
+        - {x: 9, y: 21.5}
+        - {x: -58, y: 36.5}
+        - {x: -68, y: 34.5}
+        - {x: -68, y: 6.5}
+        - {x: -15, y: -57.5}
+        - {x: 31, y: -57.5}
+        - {x: 32, y: -55.5}
+        - {x: 32, y: -52.5}
+        - {x: 28, y: -48.5}
+    - name: jumping sprite_10
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1650
+        width: 126
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 49}
+        - {x: 0, y: 49}
+        - {x: -4, y: 43}
+        - {x: 3, y: 26}
+        - {x: 10, y: 29}
+        - {x: 14, y: 31}
+        - {x: 11, y: 28}
+        - {x: 5, y: 20}
+        - {x: 5, y: 12}
+        - {x: -50, y: 49}
+        - {x: -63, y: 49}
+        - {x: -63, y: -30}
+        - {x: -22, y: -49}
+        - {x: 55, y: -49}
+        - {x: 63, y: -33}
+        - {x: 63, y: 33}
+        - {x: 25, y: 48}
+    - name: jumping sprite_11
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1650
+        width: 124
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 57.5}
+        - {x: -62, y: 8.5}
+        - {x: -61, y: 6.5}
+        - {x: -23, y: -57.5}
+        - {x: 35, y: -57.5}
+        - {x: 62, y: -2.5}
+        - {x: 62, y: 38.5}
+        - {x: 27, y: 57.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: fee35d1bbb25d6c479140be531120f4b
+timeCreated: 1454181274
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gear gear gear_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: gear gear gear_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 532
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: -195.5}
+        - {x: 98, y: -253.5}
+        - {x: 138, y: -237.5}
+        - {x: 174, y: -209.5}
+        - {x: 155, y: -163.5}
+        - {x: 143, y: -144.5}
+        - {x: 157, y: -131.5}
+        - {x: 180, y: -101.5}
+        - {x: 248, y: -111.5}
+        - {x: 263, y: -71.5}
+        - {x: 266, y: -52.5}
+        - {x: 266, y: -26.5}
+        - {x: 204, y: -1.5}
+        - {x: 203, y: 29.5}
+        - {x: 197, y: 55.5}
+        - {x: 220, y: 71.5}
+        - {x: 252, y: 97.5}
+        - {x: 253, y: 99.5}
+        - {x: 237, y: 136.5}
+        - {x: 210, y: 171.5}
+        - {x: 206, y: 170.5}
+        - {x: 146, y: 142.5}
+        - {x: 130, y: 157.5}
+        - {x: 111, y: 172.5}
+        - {x: 102, y: 178.5}
+        - {x: 112, y: 246.5}
+        - {x: 93, y: 256.5}
+        - {x: 52, y: 266.5}
+        - {x: 27, y: 266.5}
+        - {x: 4, y: 204.5}
+        - {x: -28, y: 203.5}
+        - {x: -58, y: 199.5}
+        - {x: -96, y: 252.5}
+        - {x: -107, y: 251.5}
+        - {x: -157, y: 223.5}
+        - {x: -171, y: 210.5}
+        - {x: -160, y: 182.5}
+        - {x: -143, y: 147.5}
+        - {x: -157, y: 132.5}
+        - {x: -181, y: 100.5}
+        - {x: -240, y: 109.5}
+        - {x: -248, y: 110.5}
+        - {x: -256, y: 93.5}
+        - {x: -260, y: 78.5}
+        - {x: -265, y: 53.5}
+        - {x: -266, y: 47.5}
+        - {x: -266, y: 25.5}
+        - {x: -205, y: 1.5}
+        - {x: -204, y: -28.5}
+        - {x: -199, y: -48.5}
+        - {x: -203, y: -61.5}
+        - {x: -252, y: -98.5}
+        - {x: -252, y: -101.5}
+        - {x: -229, y: -146.5}
+        - {x: -210, y: -173.5}
+        - {x: -146, y: -145.5}
+        - {x: -128, y: -160.5}
+        - {x: -100, y: -180.5}
+        - {x: -110, y: -247.5}
+        - {x: -93, y: -254.5}
+        - {x: -53, y: -266.5}
+        - {x: -25, y: -266.5}
+        - {x: -15, y: -241.5}
+        - {x: -1, y: -204.5}
+        - {x: 40, y: -202.5}
+      - - {x: 89, y: 22.5}
+        - {x: 84, y: 49.5}
+        - {x: 55, y: 74.5}
+        - {x: 22, y: 87.5}
+        - {x: -20, y: 87.5}
+        - {x: -56, y: 72.5}
+        - {x: -71, y: 54.5}
+        - {x: -85, y: 18.5}
+        - {x: -85, y: -29.5}
+        - {x: -54, y: -75.5}
+        - {x: -26, y: -85.5}
+        - {x: 29, y: -85.5}
+        - {x: 58, y: -71.5}
+        - {x: 87, y: -34.5}
+        - {x: 89, y: -29.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

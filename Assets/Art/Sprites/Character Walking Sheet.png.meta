@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: d9b72da97a8c54b4fad5169de24caf87
+timeCreated: 1454125451
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Character Walking Sheet_0
+    21300002: Character Walking Sheet_1
+    21300004: Character Walking Sheet_2
+    21300006: Character Walking Sheet_3
+    21300008: Character Walking Sheet_4
+    21300010: Character Walking Sheet_5
+    21300012: Character Walking Sheet_6
+    21300014: Character Walking Sheet_7
+    21300016: Character Walking Sheet_8
+    21300018: Character Walking Sheet_9
+    21300020: Character Walking Sheet_10
+    21300022: Character Walking Sheet_11
+    21300024: Character Walking Sheet_12
+    21300026: Character Walking Sheet_13
+    21300028: Character Walking Sheet_14
+    21300030: Character Walking Sheet_15
+    21300032: Character Walking Sheet_16
+    21300034: Character Walking Sheet_17
+    21300036: Character Walking Sheet_18
+    21300038: Character Walking Sheet_19
+    21300040: Character Walking Sheet_20
+    21300042: Character Walking Sheet_21
+    21300044: Character Walking Sheet_22
+    21300046: Character Walking Sheet_23
+    21300048: Character Walking Sheet_24
+    21300050: Character Walking Sheet_25
+    21300052: Character Walking Sheet_26
+    21300054: Character Walking Sheet_27
+    21300056: Character Walking Sheet_28
+    21300058: Character Walking Sheet_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Character Walking Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1720
+        width: 203
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 100}
+        - {x: 0.5, y: 73}
+        - {x: 10.5, y: 68}
+        - {x: 18.5, y: 69}
+        - {x: 24.5, y: 72}
+        - {x: 25.5, y: 83}
+        - {x: 21.5, y: 85}
+        - {x: 14.5, y: 86}
+        - {x: 16.5, y: 91}
+        - {x: 28.5, y: 81}
+        - {x: 23.5, y: 70}
+        - {x: 13.5, y: 61}
+        - {x: 6.5, y: 52}
+        - {x: -98.5, y: 93}
+        - {x: -101.5, y: 87}
+        - {x: -101.5, y: -13}
+        - {x: -61.5, y: -100}
+        - {x: 31.5, y: -100}
+        - {x: 101.5, y: 24}
+        - {x: 101.5, y: 63}
+        - {x: 40.5, y: 100}
+    - name: Character Walking Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1725
+        width: 205
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.5, y: -22.5}
+        - {x: 102.5, y: 34.5}
+        - {x: 102.5, y: 45.5}
+        - {x: 45.5, y: 97.5}
+        - {x: 5.5, y: 97.5}
+        - {x: -10.5, y: 89.5}
+        - {x: 7.5, y: 62.5}
+        - {x: 19.5, y: 65.5}
+        - {x: 25.5, y: 73.5}
+        - {x: 24.5, y: 78.5}
+        - {x: 20.5, y: 82.5}
+        - {x: 15.5, y: 82.5}
+        - {x: 10.5, y: 79.5}
+        - {x: 19.5, y: 88.5}
+        - {x: 27.5, y: 75.5}
+        - {x: 9.5, y: 53.5}
+        - {x: -82.5, y: 97.5}
+        - {x: -89.5, y: 97.5}
+        - {x: -102.5, y: 89.5}
+        - {x: -102.5, y: 6.5}
+        - {x: -34.5, y: -97.5}
+        - {x: 25.5, y: -97.5}
+        - {x: 23.5, y: -91.5}
+        - {x: 19.5, y: -88.5}
+    - name: Character Walking Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1725
+        width: 205
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 97.5}
+        - {x: -2.5, y: 68.5}
+        - {x: 8.5, y: 63.5}
+        - {x: 23.5, y: 68.5}
+        - {x: 23.5, y: 79.5}
+        - {x: 21.5, y: 83.5}
+        - {x: 24.5, y: 83.5}
+        - {x: 27.5, y: 70.5}
+        - {x: 22.5, y: 67.5}
+        - {x: 10.5, y: 63.5}
+        - {x: 7.5, y: 31.5}
+        - {x: -60.5, y: 72.5}
+        - {x: -102.5, y: 94.5}
+        - {x: -102.5, y: -36.5}
+        - {x: -47.5, y: -97.5}
+        - {x: 37.5, y: -97.5}
+        - {x: 39.5, y: -96.5}
+        - {x: 102.5, y: 28.5}
+        - {x: 102.5, y: 52.5}
+        - {x: 41.5, y: 97.5}
+    - name: Character Walking Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1720
+        width: 205
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 97}
+        - {x: 8.5, y: 97}
+        - {x: 3.5, y: 86}
+        - {x: 2.5, y: 72}
+        - {x: 11.5, y: 64}
+        - {x: 19.5, y: 66}
+        - {x: 24.5, y: 71}
+        - {x: 25.5, y: 80}
+        - {x: 20.5, y: 83}
+        - {x: 15.5, y: 83}
+        - {x: 10.5, y: 80}
+        - {x: 10.5, y: 78}
+        - {x: 11.5, y: 84}
+        - {x: 21.5, y: 88}
+        - {x: 28.5, y: 76}
+        - {x: 9.5, y: 54}
+        - {x: 12.5, y: 33}
+        - {x: -95.5, y: 89}
+        - {x: -102.5, y: 88}
+        - {x: -102.5, y: -61}
+        - {x: -33.5, y: -97}
+        - {x: 68.5, y: -97}
+        - {x: 102.5, y: -12}
+        - {x: 102.5, y: 48}
+        - {x: 45.5, y: 94}
+    - name: Character Walking Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1723
+        width: 205
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 97}
+        - {x: 1.5, y: 91}
+        - {x: 1.5, y: 71}
+        - {x: 10.5, y: 65}
+        - {x: 17.5, y: 66}
+        - {x: 23.5, y: 72}
+        - {x: 23.5, y: 80}
+        - {x: 19.5, y: 83}
+        - {x: 16.5, y: 83}
+        - {x: 10.5, y: 79}
+        - {x: 10.5, y: 77}
+        - {x: 11.5, y: 85}
+        - {x: 23.5, y: 85}
+        - {x: 23.5, y: 72}
+        - {x: 4.5, y: 51}
+        - {x: 9.5, y: 39}
+        - {x: -81.5, y: 90}
+        - {x: -102.5, y: 89}
+        - {x: -102.5, y: 13}
+        - {x: -82.5, y: -48}
+        - {x: -21.5, y: -97}
+        - {x: 42.5, y: -97}
+        - {x: 102.5, y: 16}
+        - {x: 102.5, y: 69}
+        - {x: 37.5, y: 97}
+    - name: Character Walking Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1480
+        width: 205
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 97}
+        - {x: -5.5, y: 71}
+        - {x: 8.5, y: 61}
+        - {x: 24.5, y: 69}
+        - {x: 23.5, y: 79}
+        - {x: 21.5, y: 82}
+        - {x: 20.5, y: 88}
+        - {x: 27.5, y: 70}
+        - {x: 20.5, y: 67}
+        - {x: -26.5, y: 35}
+        - {x: -95.5, y: 97}
+        - {x: -102.5, y: 97}
+        - {x: -102.5, y: 32}
+        - {x: -93.5, y: 22}
+        - {x: -72.5, y: 1}
+        - {x: -73.5, y: -20}
+        - {x: -73.5, y: -28}
+        - {x: -33.5, y: -97}
+        - {x: 26.5, y: -97}
+        - {x: 102.5, y: 6}
+        - {x: 102.5, y: 45}
+        - {x: 35.5, y: 97}
+    - name: Character Walking Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1477
+        width: 205
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 97}
+        - {x: -0.5, y: 86}
+        - {x: 1.5, y: 72}
+        - {x: 10.5, y: 65}
+        - {x: 15.5, y: 66}
+        - {x: 21.5, y: 69}
+        - {x: 23.5, y: 74}
+        - {x: 23.5, y: 79}
+        - {x: 19.5, y: 83}
+        - {x: 27.5, y: 77}
+        - {x: 14.5, y: 61}
+        - {x: 10.5, y: 52}
+        - {x: 10.5, y: 42}
+        - {x: 11.5, y: 36}
+        - {x: -101.5, y: 96}
+        - {x: -102.5, y: 92}
+        - {x: -102.5, y: 16}
+        - {x: -28.5, y: -97}
+        - {x: 51.5, y: -97}
+        - {x: 102.5, y: -1}
+        - {x: 102.5, y: 53}
+        - {x: 58.5, y: 97}
+    - name: Character Walking Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1477
+        width: 205
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: -7}
+        - {x: 102.5, y: 36}
+        - {x: 102.5, y: 48}
+        - {x: 41.5, y: 97}
+        - {x: 5.5, y: 97}
+        - {x: -2.5, y: 70}
+        - {x: 11.5, y: 64}
+        - {x: 19.5, y: 66}
+        - {x: 24.5, y: 71}
+        - {x: 25.5, y: 80}
+        - {x: 20.5, y: 83}
+        - {x: 15.5, y: 83}
+        - {x: 10.5, y: 80}
+        - {x: 10.5, y: 78}
+        - {x: 11.5, y: 84}
+        - {x: 21.5, y: 88}
+        - {x: 27.5, y: 77}
+        - {x: 28.5, y: 71}
+        - {x: 20.5, y: 67}
+        - {x: 8.5, y: 54}
+        - {x: -79.5, y: 87}
+        - {x: -99.5, y: 94}
+        - {x: -102.5, y: 88}
+        - {x: -102.5, y: -5}
+        - {x: -41.5, y: -97}
+        - {x: 24.5, y: -97}
+        - {x: 28.5, y: -81}
+        - {x: 23.5, y: -77}
+        - {x: 37.5, y: -32}
+    - name: Character Walking Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1477
+        width: 205
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 97}
+        - {x: -2.5, y: 89}
+        - {x: 5.5, y: 62}
+        - {x: 19.5, y: 66}
+        - {x: 23.5, y: 72}
+        - {x: 23.5, y: 80}
+        - {x: 20.5, y: 83}
+        - {x: 14.5, y: 84}
+        - {x: 24.5, y: 84}
+        - {x: 27.5, y: 71}
+        - {x: 13.5, y: 60}
+        - {x: 7.5, y: 45}
+        - {x: -96.5, y: 89}
+        - {x: -102.5, y: 80}
+        - {x: -102.5, y: 41}
+        - {x: -99.5, y: 35}
+        - {x: -93.5, y: 24}
+        - {x: -90.5, y: 20}
+        - {x: -77.5, y: 6}
+        - {x: -70.5, y: 0}
+        - {x: -75.5, y: -24}
+        - {x: -62.5, y: -44}
+        - {x: -19.5, y: -97}
+        - {x: 44.5, y: -97}
+        - {x: 102.5, y: 29}
+        - {x: 102.5, y: 45}
+        - {x: 38.5, y: 97}
+    - name: Character Walking Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1477
+        width: 205
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 97}
+        - {x: -6.5, y: 71}
+        - {x: 10.5, y: 63}
+        - {x: 19.5, y: 66}
+        - {x: 23.5, y: 70}
+        - {x: 24.5, y: 81}
+        - {x: 19.5, y: 83}
+        - {x: 15.5, y: 83}
+        - {x: 10.5, y: 79}
+        - {x: 18.5, y: 88}
+        - {x: 27.5, y: 78}
+        - {x: 22.5, y: 68}
+        - {x: 11.5, y: 60}
+        - {x: -79.5, y: 84}
+        - {x: -102.5, y: 86}
+        - {x: -102.5, y: -1}
+        - {x: -91.5, y: -42}
+        - {x: -41.5, y: -97}
+        - {x: 35.5, y: -97}
+        - {x: 58.5, y: -90}
+        - {x: 102.5, y: 24}
+        - {x: 102.5, y: 58}
+        - {x: 38.5, y: 97}
+    - name: Character Walking Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1477
+        width: 205
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102.5, y: 38}
+        - {x: 102.5, y: 44}
+        - {x: 92.5, y: 48}
+        - {x: 82.5, y: 51}
+        - {x: 40.5, y: 96}
+        - {x: 36.5, y: 97}
+        - {x: 6.5, y: 97}
+        - {x: -0.5, y: 86}
+        - {x: 1.5, y: 72}
+        - {x: 10.5, y: 65}
+        - {x: 15.5, y: 66}
+        - {x: 21.5, y: 69}
+        - {x: 23.5, y: 74}
+        - {x: 23.5, y: 79}
+        - {x: 19.5, y: 83}
+        - {x: 27.5, y: 77}
+        - {x: 14.5, y: 61}
+        - {x: 10.5, y: 52}
+        - {x: 10.5, y: 42}
+        - {x: 11.5, y: 36}
+        - {x: -102.5, y: 94}
+        - {x: -102.5, y: -14}
+        - {x: -42.5, y: -97}
+        - {x: 30.5, y: -97}
+        - {x: 33.5, y: -89}
+        - {x: 27.5, y: -85}
+        - {x: 47.5, y: -25}
+    - name: Character Walking Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1229
+        width: 206
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 97}
+        - {x: 2, y: 96}
+        - {x: 1, y: 72}
+        - {x: 12, y: 62}
+        - {x: 26, y: 70}
+        - {x: 26, y: 80}
+        - {x: 22, y: 84}
+        - {x: 26, y: 83}
+        - {x: 28, y: 71}
+        - {x: 15, y: 61}
+        - {x: 9, y: 53}
+        - {x: -87, y: 90}
+        - {x: -103, y: 84}
+        - {x: -103, y: -29}
+        - {x: -102, y: -50}
+        - {x: -23, y: -97}
+        - {x: 71, y: -97}
+        - {x: 103, y: 16}
+        - {x: 103, y: 62}
+        - {x: 41, y: 97}
+    - name: Character Walking Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1229
+        width: 198
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 97}
+        - {x: 3, y: 97}
+        - {x: -9, y: 89}
+        - {x: -1, y: 71}
+        - {x: 7, y: 65}
+        - {x: 16, y: 66}
+        - {x: 20, y: 70}
+        - {x: 21, y: 81}
+        - {x: 23, y: 71}
+        - {x: 11, y: 60}
+        - {x: 6, y: 49}
+        - {x: -84, y: 97}
+        - {x: -93, y: 97}
+        - {x: -99, y: 88}
+        - {x: -99, y: -26}
+        - {x: -23, y: -97}
+        - {x: 29, y: -97}
+        - {x: 34, y: -89}
+        - {x: 99, y: 1}
+        - {x: 99, y: 53}
+    - name: Character Walking Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1232
+        width: 205
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 94}
+        - {x: 8.5, y: 94}
+        - {x: 2.5, y: 70}
+        - {x: 13.5, y: 62}
+        - {x: 22.5, y: 63}
+        - {x: 26.5, y: 70}
+        - {x: 26.5, y: 77}
+        - {x: 22.5, y: 80}
+        - {x: 17.5, y: 82}
+        - {x: 26.5, y: 82}
+        - {x: 30.5, y: 66}
+        - {x: 23.5, y: 62}
+        - {x: 6.5, y: 60}
+        - {x: -87.5, y: 94}
+        - {x: -102.5, y: 94}
+        - {x: -102.5, y: -60}
+        - {x: -19.5, y: -94}
+        - {x: 57.5, y: -94}
+        - {x: 102.5, y: 5}
+        - {x: 102.5, y: 57}
+        - {x: 69.5, y: 78}
+    - name: Character Walking Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1229
+        width: 206
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 94.5}
+        - {x: -103, y: -61.5}
+        - {x: -36, y: -94.5}
+        - {x: 64, y: -94.5}
+        - {x: 103, y: 23.5}
+        - {x: 103, y: 55.5}
+        - {x: 54, y: 94.5}
+    - name: Character Walking Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1229
+        width: 206
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 94.5}
+        - {x: -103, y: -14.5}
+        - {x: -82, y: -49.5}
+        - {x: -19, y: -80.5}
+        - {x: -20, y: -84.5}
+        - {x: -20, y: -83.5}
+        - {x: -23, y: -84.5}
+        - {x: -27, y: -89.5}
+        - {x: -28, y: -94.5}
+        - {x: 45, y: -94.5}
+        - {x: 103, y: 29.5}
+        - {x: 103, y: 55.5}
+        - {x: 54, y: 94.5}
+    - name: Character Walking Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1235
+        width: 206
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -84}
+        - {x: 36, y: -91}
+        - {x: 42, y: -41}
+        - {x: 103, y: 32}
+        - {x: 103, y: 46}
+        - {x: 49, y: 93}
+        - {x: 46, y: 94}
+        - {x: 13, y: 94}
+        - {x: 4, y: 84}
+        - {x: 15, y: 61}
+        - {x: 27, y: 63}
+        - {x: 33, y: 70}
+        - {x: 32, y: 77}
+        - {x: 28, y: 80}
+        - {x: 23, y: 80}
+        - {x: 19, y: 76}
+        - {x: 19, y: 74}
+        - {x: 19, y: 80}
+        - {x: 20, y: 81}
+        - {x: 32, y: 82}
+        - {x: 36, y: 74}
+        - {x: 19, y: 53}
+        - {x: -90, y: 91}
+        - {x: -103, y: 83}
+        - {x: -103, y: 6}
+        - {x: -40, y: -94}
+        - {x: 17, y: -94}
+        - {x: 17, y: -88}
+        - {x: 14, y: -85}
+        - {x: 10, y: -84}
+    - name: Character Walking Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 994
+        width: 206
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -84.5}
+        - {x: 25, y: -82.5}
+        - {x: 26, y: -80.5}
+        - {x: 20, y: -71.5}
+        - {x: 103, y: 32.5}
+        - {x: 103, y: 42.5}
+        - {x: 100, y: 43.5}
+        - {x: 84, y: 48.5}
+        - {x: 60, y: 65.5}
+        - {x: 50, y: 69.5}
+        - {x: 44, y: 82.5}
+        - {x: 37, y: 94.5}
+        - {x: 12, y: 94.5}
+        - {x: 1, y: 82.5}
+        - {x: 5, y: 62.5}
+        - {x: 23, y: 62.5}
+        - {x: 26, y: 67.5}
+        - {x: 27, y: 77.5}
+        - {x: 23, y: 79.5}
+        - {x: 19, y: 80.5}
+        - {x: 23, y: 85.5}
+        - {x: 29, y: 75.5}
+        - {x: 29, y: 66.5}
+        - {x: 7, y: 51.5}
+        - {x: -75, y: 94.5}
+        - {x: -103, y: 94.5}
+        - {x: -103, y: -30.5}
+        - {x: -101, y: -47.5}
+        - {x: -35, y: -94.5}
+        - {x: 14, y: -94.5}
+        - {x: 14, y: -88.5}
+        - {x: 10, y: -84.5}
+        - {x: 5, y: -84.5}
+    - name: Character Walking Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 983
+        width: 205
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: -73.5}
+        - {x: 102.5, y: 29.5}
+        - {x: 102.5, y: 60.5}
+        - {x: 39.5, y: 97.5}
+        - {x: 8.5, y: 97.5}
+        - {x: -2.5, y: 78.5}
+        - {x: 8.5, y: 64.5}
+        - {x: 17.5, y: 65.5}
+        - {x: 24.5, y: 70.5}
+        - {x: 24.5, y: 78.5}
+        - {x: 20.5, y: 82.5}
+        - {x: 15.5, y: 82.5}
+        - {x: 10.5, y: 79.5}
+        - {x: 19.5, y: 88.5}
+        - {x: 28.5, y: 75.5}
+        - {x: 14.5, y: 59.5}
+        - {x: 11.5, y: 52.5}
+        - {x: 11.5, y: 40.5}
+        - {x: 13.5, y: 35.5}
+        - {x: -87.5, y: 82.5}
+        - {x: -97.5, y: 83.5}
+        - {x: -102.5, y: 82.5}
+        - {x: -102.5, y: -0.5}
+        - {x: -94.5, y: -38.5}
+        - {x: -35.5, y: -97.5}
+        - {x: 12.5, y: -97.5}
+        - {x: 12.5, y: -91.5}
+        - {x: 9.5, y: -87.5}
+        - {x: 34.5, y: -86.5}
+    - name: Character Walking Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 983
+        width: 205
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102.5, y: 16.5}
+        - {x: 102.5, y: 57.5}
+        - {x: 34.5, y: 97.5}
+        - {x: 6.5, y: 97.5}
+        - {x: 1.5, y: 83.5}
+        - {x: 2.5, y: 71.5}
+        - {x: 9.5, y: 65.5}
+        - {x: 17.5, y: 66.5}
+        - {x: 22.5, y: 69.5}
+        - {x: 23.5, y: 72.5}
+        - {x: 23.5, y: 79.5}
+        - {x: 20.5, y: 82.5}
+        - {x: 13.5, y: 83.5}
+        - {x: 15.5, y: 88.5}
+        - {x: 27.5, y: 78.5}
+        - {x: 19.5, y: 65.5}
+        - {x: 14.5, y: 63.5}
+        - {x: 7.5, y: 43.5}
+        - {x: -69.5, y: 97.5}
+        - {x: -102.5, y: 97.5}
+        - {x: -102.5, y: -64.5}
+        - {x: -38.5, y: -97.5}
+        - {x: 9.5, y: -97.5}
+        - {x: 9.5, y: -90.5}
+        - {x: 21.5, y: -97.5}
+        - {x: 48.5, y: -97.5}
+    - name: Character Walking Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 983
+        width: 205
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -89.5}
+        - {x: -8.5, y: -84.5}
+        - {x: -5.5, y: -86.5}
+        - {x: 39.5, y: -86.5}
+        - {x: 33.5, y: -72.5}
+        - {x: 102.5, y: 31.5}
+        - {x: 102.5, y: 48.5}
+        - {x: 37.5, y: 97.5}
+        - {x: 3.5, y: 97.5}
+        - {x: -3.5, y: 67.5}
+        - {x: 8.5, y: 63.5}
+        - {x: 23.5, y: 68.5}
+        - {x: 23.5, y: 79.5}
+        - {x: 20.5, y: 82.5}
+        - {x: 13.5, y: 84.5}
+        - {x: 13.5, y: 82.5}
+        - {x: 14.5, y: 88.5}
+        - {x: 23.5, y: 84.5}
+        - {x: 27.5, y: 70.5}
+        - {x: 19.5, y: 66.5}
+        - {x: 11.5, y: 57.5}
+        - {x: 9.5, y: 50.5}
+        - {x: 10.5, y: 38.5}
+        - {x: -102.5, y: 95.5}
+        - {x: -102.5, y: 20.5}
+        - {x: -94.5, y: -39.5}
+        - {x: -41.5, y: -97.5}
+        - {x: 9.5, y: -97.5}
+        - {x: 9.5, y: -90.5}
+        - {x: 6.5, y: -87.5}
+        - {x: 0.5, y: -87.5}
+    - name: Character Walking Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 986
+        width: 205
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -89}
+        - {x: -1.5, y: -87}
+        - {x: 43.5, y: -87}
+        - {x: 37.5, y: -73}
+        - {x: 43.5, y: -22}
+        - {x: 102.5, y: 30}
+        - {x: 102.5, y: 60}
+        - {x: 39.5, y: 97}
+        - {x: -1.5, y: 97}
+        - {x: -6.5, y: 87}
+        - {x: 9.5, y: 59}
+        - {x: 17.5, y: 64}
+        - {x: 26.5, y: 73}
+        - {x: 25.5, y: 80}
+        - {x: 27.5, y: 71}
+        - {x: 20.5, y: 67}
+        - {x: 10.5, y: 53}
+        - {x: 11.5, y: 42}
+        - {x: 13.5, y: 37}
+        - {x: 15.5, y: 33}
+        - {x: -81.5, y: 86}
+        - {x: -102.5, y: 92}
+        - {x: -102.5, y: 0}
+        - {x: -93.5, y: -40}
+        - {x: -48.5, y: -97}
+        - {x: 10.5, y: -97}
+        - {x: 10.5, y: -91}
+        - {x: 6.5, y: -87}
+        - {x: 2.5, y: -87}
+    - name: Character Walking Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 989
+        width: 205
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: 97}
+        - {x: 1.5, y: 97}
+        - {x: 0.5, y: 87}
+        - {x: 2.5, y: 72}
+        - {x: 11.5, y: 64}
+        - {x: 19.5, y: 66}
+        - {x: 24.5, y: 71}
+        - {x: 25.5, y: 79}
+        - {x: 20.5, y: 83}
+        - {x: 15.5, y: 83}
+        - {x: 10.5, y: 79}
+        - {x: 11.5, y: 81}
+        - {x: 21.5, y: 88}
+        - {x: 28.5, y: 72}
+        - {x: 13.5, y: 61}
+        - {x: -78.5, y: 89}
+        - {x: -102.5, y: 90}
+        - {x: -102.5, y: -62}
+        - {x: -38.5, y: -97}
+        - {x: 47.5, y: -97}
+        - {x: 58.5, y: -79}
+        - {x: 102.5, y: 12}
+        - {x: 102.5, y: 68}
+    - name: Character Walking Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 729
+        width: 193
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96.5, y: 44.5}
+        - {x: 88.5, y: 48.5}
+        - {x: 30.5, y: 97.5}
+        - {x: 1.5, y: 97.5}
+        - {x: -8.5, y: 87.5}
+        - {x: 1.5, y: 62.5}
+        - {x: 13.5, y: 65.5}
+        - {x: 19.5, y: 73.5}
+        - {x: 18.5, y: 78.5}
+        - {x: 14.5, y: 82.5}
+        - {x: 9.5, y: 82.5}
+        - {x: 4.5, y: 79.5}
+        - {x: 13.5, y: 88.5}
+        - {x: 21.5, y: 74.5}
+        - {x: 4.5, y: 53.5}
+        - {x: 3.5, y: 40.5}
+        - {x: -79.5, y: 82.5}
+        - {x: -96.5, y: 76.5}
+        - {x: -96.5, y: -28.5}
+        - {x: -93.5, y: -40.5}
+        - {x: -43.5, y: -97.5}
+        - {x: 10.5, y: -97.5}
+        - {x: 36.5, y: -91.5}
+        - {x: 39.5, y: -82.5}
+        - {x: 96.5, y: 30.5}
+    - name: Character Walking Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 729
+        width: 182
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91, y: 34.5}
+        - {x: 91, y: 43.5}
+        - {x: 82, y: 48.5}
+        - {x: 25, y: 97.5}
+        - {x: -4, y: 97.5}
+        - {x: -11, y: 95.5}
+        - {x: -12, y: 72.5}
+        - {x: -3, y: 64.5}
+        - {x: 7, y: 65.5}
+        - {x: 13, y: 73.5}
+        - {x: 12, y: 79.5}
+        - {x: 9, y: 82.5}
+        - {x: 3, y: 82.5}
+        - {x: -1, y: 79.5}
+        - {x: -1, y: 76.5}
+        - {x: -1, y: 83.5}
+        - {x: 12, y: 84.5}
+        - {x: 16, y: 70.5}
+        - {x: 8, y: 67.5}
+        - {x: -2, y: 52.5}
+        - {x: -1, y: 42.5}
+        - {x: -51, y: 97.5}
+        - {x: -91, y: 97.5}
+        - {x: -91, y: -67.5}
+        - {x: -58, y: -97.5}
+        - {x: 6, y: -97.5}
+        - {x: 32, y: -95.5}
+        - {x: 32, y: -86.5}
+        - {x: 27, y: -81.5}
+        - {x: 30, y: -31.5}
+    - name: Character Walking Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 730
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 97}
+        - {x: -5, y: 95}
+        - {x: -5, y: 72}
+        - {x: 4, y: 65}
+        - {x: 14, y: 66}
+        - {x: 18, y: 70}
+        - {x: 19, y: 80}
+        - {x: 15, y: 82}
+        - {x: 11, y: 83}
+        - {x: 15, y: 88}
+        - {x: 21, y: 78}
+        - {x: 16, y: 67}
+        - {x: 6, y: 60}
+        - {x: 3, y: 41}
+        - {x: -82, y: 82}
+        - {x: -97, y: 76}
+        - {x: -97, y: -83}
+        - {x: -59, y: -97}
+        - {x: 86, y: -97}
+        - {x: 97, y: -46}
+        - {x: 97, y: 68}
+        - {x: 38, y: 97}
+    - name: Character Walking Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 730
+        width: 201
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 97}
+        - {x: -3.5, y: 97}
+        - {x: -2.5, y: 68}
+        - {x: 15.5, y: 63}
+        - {x: 21.5, y: 70}
+        - {x: 22.5, y: 80}
+        - {x: 18.5, y: 84}
+        - {x: 10.5, y: 83}
+        - {x: 18.5, y: 88}
+        - {x: 25.5, y: 78}
+        - {x: 20.5, y: 69}
+        - {x: 9.5, y: 57}
+        - {x: 5.5, y: 51}
+        - {x: -80.5, y: 83}
+        - {x: -94.5, y: 82}
+        - {x: -100.5, y: 79}
+        - {x: -100.5, y: 31}
+        - {x: -96.5, y: 13}
+        - {x: -77.5, y: -29}
+        - {x: -41.5, y: -97}
+        - {x: 43.5, y: -97}
+        - {x: 45.5, y: -95}
+        - {x: 100.5, y: 20}
+        - {x: 100.5, y: 69}
+    - name: Character Walking Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 730
+        width: 193
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 97}
+        - {x: -5.5, y: 87}
+        - {x: -4.5, y: 71}
+        - {x: 4.5, y: 65}
+        - {x: 10.5, y: 65}
+        - {x: 18.5, y: 71}
+        - {x: 17.5, y: 79}
+        - {x: 13.5, y: 83}
+        - {x: 14.5, y: 88}
+        - {x: 21.5, y: 70}
+        - {x: 13.5, y: 68}
+        - {x: 2.5, y: 50}
+        - {x: 3.5, y: 39}
+        - {x: -96.5, y: 96}
+        - {x: -96.5, y: -84}
+        - {x: -47.5, y: -97}
+        - {x: 79.5, y: -97}
+        - {x: 96.5, y: -19}
+        - {x: 96.5, y: 62}
+        - {x: 37.5, y: 97}
+    - name: Character Walking Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 730
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 97}
+        - {x: -10, y: 85}
+        - {x: -8, y: 73}
+        - {x: 0, y: 64}
+        - {x: 10, y: 66}
+        - {x: 13, y: 70}
+        - {x: 14, y: 73}
+        - {x: 14, y: 79}
+        - {x: 12, y: 82}
+        - {x: 17, y: 78}
+        - {x: 12, y: 67}
+        - {x: -7, y: 58}
+        - {x: -62, y: 97}
+        - {x: -93, y: 97}
+        - {x: -93, y: -45}
+        - {x: -67, y: -97}
+        - {x: 49, y: -97}
+        - {x: 93, y: 13}
+        - {x: 93, y: 67}
+        - {x: 33, y: 97}
+    - name: Character Walking Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 465
+        width: 201
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86.5, y: 49}
+        - {x: 38.5, y: 97}
+        - {x: 5.5, y: 97}
+        - {x: -0.5, y: 91}
+        - {x: -0.5, y: 70}
+        - {x: 8.5, y: 65}
+        - {x: 14.5, y: 65}
+        - {x: 22.5, y: 71}
+        - {x: 21.5, y: 79}
+        - {x: 17.5, y: 83}
+        - {x: 14.5, y: 83}
+        - {x: 8.5, y: 79}
+        - {x: 8.5, y: 77}
+        - {x: 9.5, y: 85}
+        - {x: 21.5, y: 85}
+        - {x: 25.5, y: 70}
+        - {x: 17.5, y: 68}
+        - {x: 6.5, y: 50}
+        - {x: -60.5, y: 97}
+        - {x: -100.5, y: 97}
+        - {x: -100.5, y: -19}
+        - {x: -51.5, y: -97}
+        - {x: 39.5, y: -97}
+        - {x: 46.5, y: -92}
+        - {x: 100.5, y: 36}
+        - {x: 100.5, y: 44}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

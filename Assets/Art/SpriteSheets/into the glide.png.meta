@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 14a77baa47481824ca205ab306b8268b
+timeCreated: 1454178437
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: into the glide_0
+    21300002: into the glide_1
+    21300004: into the glide_2
+    21300006: into the glide_3
+    21300008: into the glide_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: into the glide_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 104
+        width: 125
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.5, y: 59}
+        - {x: -59.5, y: 59}
+        - {x: -62.5, y: 56}
+        - {x: -62.5, y: -22}
+        - {x: -24.5, y: -59}
+        - {x: 15.5, y: -59}
+        - {x: 15.5, y: -56}
+        - {x: 62.5, y: 10}
+        - {x: 62.5, y: 44}
+    - name: into the glide_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 109
+        width: 146
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 56.5}
+        - {x: -73, y: 37.5}
+        - {x: -73, y: -7.5}
+        - {x: -65, y: -27.5}
+        - {x: -13, y: -56.5}
+        - {x: 41, y: -56.5}
+        - {x: 73, y: 17.5}
+        - {x: 73, y: 39.5}
+        - {x: 43, y: 56.5}
+    - name: into the glide_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 109
+        width: 146
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 56.5}
+        - {x: -73, y: 34.5}
+        - {x: -73, y: -4.5}
+        - {x: -18, y: -56.5}
+        - {x: 41, y: -56.5}
+        - {x: 73, y: 10.5}
+        - {x: 73, y: 47.5}
+        - {x: 52, y: 56.5}
+    - name: into the glide_3
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 109
+        width: 146
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 56.5}
+        - {x: -73, y: 34.5}
+        - {x: -73, y: -4.5}
+        - {x: -18, y: -56.5}
+        - {x: 34, y: -56.5}
+        - {x: 73, y: 14.5}
+        - {x: 73, y: 47.5}
+        - {x: 52, y: 56.5}
+    - name: into the glide_4
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 109
+        width: 146
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 56.5}
+        - {x: -52, y: 33.5}
+        - {x: -73, y: 23.5}
+        - {x: -73, y: -37.5}
+        - {x: -26, y: -56.5}
+        - {x: 31, y: -56.5}
+        - {x: 73, y: 17.5}
+        - {x: 73, y: 28.5}
+        - {x: 39, y: 56.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -8,7 +8,7 @@ public class Player : MonoBehaviour {
     public float walkingAccel;
     public float jumpSpeed;
     public float glideFallSpeed;
-    private float raycastDistance;
+    public float raycastDistance;
     private Vector2 boxSide;
     private bool isGrounded;
     private bool isDead;
@@ -21,7 +21,6 @@ public class Player : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         rigidbody2D = this.GetComponent<Rigidbody2D>();
-        raycastDistance = 1.1f * this.GetComponent<Collider2D>().bounds.extents.y;
         boxSide = new Vector2(this.GetComponent<Collider2D>().bounds.extents.x, 0);
         anim = this.GetComponent<Animator>();
         animIdJump = Animator.StringToHash("Jump");

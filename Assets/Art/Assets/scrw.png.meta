@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 43e29c78d07dfe44d8b401d25572a223
-timeCreated: 1454180824
+timeCreated: 1454183138
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -52,37 +52,29 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: scrw_0
-      rect:
-        serializedVersion: 2
-        x: 486
-        y: 686
-        width: 5
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
     - name: scrw_1
       rect:
         serializedVersion: 2
-        x: 322
-        y: 231
+        x: 320
+        y: 230
         width: 77
         height: 261
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -35.5, y: 130.5}
-        - {x: -38.5, y: 128.5}
-        - {x: -38.5, y: 26.5}
-        - {x: -18.5, y: -114.5}
-        - {x: -5.5, y: -130.5}
-        - {x: 5.5, y: -130.5}
-        - {x: 18.5, y: -93.5}
-        - {x: 38.5, y: -16.5}
-        - {x: 38.5, y: 130.5}
+      - - {x: 38.5, y: 125.5}
+        - {x: 23.5, y: 130.5}
+        - {x: -35.5, y: 130.5}
+        - {x: -38.5, y: 127.5}
+        - {x: -38.5, y: 23.5}
+        - {x: -24.5, y: -71.5}
+        - {x: -9.5, y: -126.5}
+        - {x: -2.5, y: -130.5}
+        - {x: 7.5, y: -130.5}
+        - {x: 21.5, y: -92.5}
+        - {x: 24.5, y: 8.5}
+        - {x: 38.5, y: 66.5}
     outline: []
   spritePackingTag: 
   userData: 

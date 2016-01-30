@@ -21,7 +21,6 @@ public class Mover : MonoBehaviour {
         while (true) { 
             yield return new WaitForSeconds(moveTime);
             moveSpeed *= -1;
-    }
-
+        }
     }
 }

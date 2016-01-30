@@ -1,0 +1,90 @@
+fileFormatVersion: 2
+guid: 03804c36b226a674b8cd7e0fc7cedb3f
+timeCreated: 1454193482
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Piston_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Piston_0
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 181
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: -272.5}
+        - {x: 6.5, y: -269.5}
+        - {x: -11.5, y: -269.5}
+        - {x: -12.5, y: -272.5}
+      - - {x: 42.5, y: 139.5}
+        - {x: 73.5, y: 144.5}
+        - {x: 85.5, y: 148.5}
+        - {x: 90.5, y: 152.5}
+        - {x: 90.5, y: 265.5}
+        - {x: 67.5, y: 272.5}
+        - {x: -68.5, y: 272.5}
+        - {x: -90.5, y: 262.5}
+        - {x: -90.5, y: 161.5}
+        - {x: -81.5, y: 146.5}
+        - {x: -44.5, y: 142.5}
+        - {x: -44.5, y: -65.5}
+        - {x: -43.5, y: -204.5}
+        - {x: 40.5, y: -204.5}
+        - {x: 41.5, y: -201.5}
+        - {x: 43.5, y: -143.5}
+        - {x: 41.5, y: -143.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -21,7 +21,7 @@ public class Player : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         rigidbody2D = this.GetComponent<Rigidbody2D>();
-        raycastDistance = 1.5f * this.GetComponent<Collider2D>().bounds.extents.y;
+        raycastDistance = 1.1f * this.GetComponent<Collider2D>().bounds.extents.y;
         boxSide = new Vector2(this.GetComponent<Collider2D>().bounds.extents.x, 0);
         anim = this.GetComponent<Animator>();
         animIdJump = Animator.StringToHash("Jump");
@@ -36,8 +36,7 @@ public class Player : MonoBehaviour {
         if (Input.GetButtonDown("Respawn")) { //Kills player
             isDead = !isDead;
             if (isDead) {
-                horizontalVelocity = 0;
-                anim.SetTrigger(animIdKilled);
+                Kill();
             } else {
                 Application.LoadLevel(Application.loadedLevel);
             }
@@ -75,5 +74,11 @@ public class Player : MonoBehaviour {
             Mathf.MoveTowards(rigidbody2D.velocity.x, horizontalVelocity, 
                 (rigidbody2D.velocity.x * horizontalVelocity > 0 ? 1 : 5) * walkingAccel * Time.fixedDeltaTime),
             rigidbody2D.velocity.y);
+    }
+
+    void Kill() {
+        isDead = true;
+        horizontalVelocity = 0;
+        anim.SetTrigger(animIdKilled);
     }
 }

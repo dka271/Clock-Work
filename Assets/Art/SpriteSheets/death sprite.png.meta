@@ -22,7 +22,7 @@ TextureImporter:
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: 0.25
+    heightScale: .25
     normalMapFilter: 0
   isReadable: 0
   grayScaleToAlpha: 0
@@ -47,9 +47,9 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: 0.5, y: 0.5}
+  spritePivot: {x: .5, y: .5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 60
   alphaIsTransparency: 1
   textureType: 8
   buildTargetSettings: []
@@ -65,16 +65,6 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 43.5, y: 59}
-        - {x: -59.5, y: 59}
-        - {x: -62.5, y: 56}
-        - {x: -62.5, y: -22}
-        - {x: -24.5, y: -59}
-        - {x: 15.5, y: -59}
-        - {x: 15.5, y: -56}
-        - {x: 62.5, y: 10}
-        - {x: 62.5, y: 44}
     - name: death sprite_1
       rect:
         serializedVersion: 2
@@ -85,26 +75,6 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 33.5, y: -44}
-        - {x: 23.5, y: -38}
-        - {x: 37.5, y: -42}
-        - {x: 40.5, y: -42}
-        - {x: 54.5, y: -54}
-        - {x: 55.5, y: -50}
-        - {x: 55.5, y: 63}
-        - {x: -14.5, y: 63}
-        - {x: -14.5, y: 45}
-        - {x: -7.5, y: 41}
-        - {x: -55.5, y: 43}
-        - {x: -55.5, y: 3}
-        - {x: -42.5, y: -28}
-        - {x: 3.5, y: -63}
-        - {x: 26.5, y: -63}
-        - {x: 43.5, y: -49}
-        - {x: 42.5, y: -45}
-        - {x: 39.5, y: -42}
-        - {x: 35.5, y: -42}
     - name: death sprite_2
       rect:
         serializedVersion: 2
@@ -115,18 +85,6 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 17, y: 25}
-        - {x: 13, y: 18}
-        - {x: 32, y: 77}
-        - {x: 1, y: 77}
-        - {x: -45, y: 66}
-        - {x: -45, y: -77}
-        - {x: -18, y: -77}
-        - {x: 38, y: -55}
-        - {x: 45, y: -27}
-        - {x: 45, y: -1}
-        - {x: 44, y: 5}
     - name: death sprite_3
       rect:
         serializedVersion: 2
@@ -137,22 +95,6 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 27.5, y: 43.5}
-        - {x: -0.5, y: 30.5}
-        - {x: -1.5, y: 24.5}
-        - {x: 7.5, y: 20.5}
-        - {x: -10.5, y: 25.5}
-        - {x: -11.5, y: 40.5}
-        - {x: -18.5, y: 72.5}
-        - {x: -30.5, y: 72.5}
-        - {x: -57.5, y: 39.5}
-        - {x: -57.5, y: 14.5}
-        - {x: 33.5, y: -72.5}
-        - {x: 56.5, y: -72.5}
-        - {x: 57.5, y: -66.5}
-        - {x: 57.5, y: 40.5}
-        - {x: 35.5, y: 44.5}
     - name: death sprite_4
       rect:
         serializedVersion: 2
@@ -163,20 +105,6 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 13.5, y: 43}
-        - {x: -6.5, y: 32}
-        - {x: -7.5, y: 26}
-        - {x: -86.5, y: -3}
-        - {x: -86.5, y: -12}
-        - {x: -76.5, y: -16}
-        - {x: -72.5, y: -34}
-        - {x: -68.5, y: -43}
-        - {x: -36.5, y: -43}
-        - {x: 86.5, y: -10}
-        - {x: 86.5, y: 29}
-        - {x: 39.5, y: 43}
-    outline: []
   spritePackingTag: 
   userData: 
   assetBundleName: 

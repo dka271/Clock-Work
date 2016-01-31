@@ -13,7 +13,8 @@ public class Mover : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        transform.Translate(moveSpeed * Time.deltaTime);
+        transform.position += (Vector3)moveSpeed * Time.deltaTime;
+        //transform.Translate(moveSpeed * Time.deltaTime);
     }
 
     IEnumerator timer()

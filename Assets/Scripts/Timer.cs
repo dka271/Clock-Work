@@ -25,7 +25,7 @@ public class Timer : MonoBehaviour {
             text.text = string.Format(message, -time);
         else
             text.text = string.Format(message, time);
-        if (!countUp && time <= 0 && active) {
+        if (!countUp && time < 0 && active) {
             //listener.SendMessage("OnTimeElapsed");
             GameObject.Find("Player").SendMessage("Kill");
             active = false;

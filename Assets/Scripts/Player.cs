@@ -7,6 +7,7 @@ public class Player : MonoBehaviour {
     public float walkingSpeed;
     public float walkingAccel;
     public float jumpSpeed;
+    public float maxFallSpeed;
     public float glideFallSpeed;
     public float raycastDistance;
     private Vector2 boxSide;
@@ -74,7 +75,7 @@ public class Player : MonoBehaviour {
         rigidbody2D.velocity = new Vector2(
             Mathf.MoveTowards(rigidbody2D.velocity.x, horizontalVelocity, 
                 (rigidbody2D.velocity.x * horizontalVelocity > 0 ? 1 : 5) * walkingAccel * Time.fixedDeltaTime),
-            rigidbody2D.velocity.y);
+            Mathf.Clamp(rigidbody2D.velocity.y, maxFallSpeed, float.MaxValue));
     }
 
     void Kill() {

@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class Timer : MonoBehaviour {
     public float time;
     public string message;
+    public GameObject listener;
     private bool active;
     private Text text;
 
@@ -18,7 +19,7 @@ public class Timer : MonoBehaviour {
         time -= Time.deltaTime;
         text.text = string.Format(message, time);
         if (time <= 0 && active) {
-            SendMessage("OnTimeElapsed", this);
+            listener.SendMessage("OnTimeElapsed", this);
             active = false;
         }
 	}

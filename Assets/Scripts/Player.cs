@@ -57,6 +57,8 @@ public class Player : MonoBehaviour {
             if (Input.GetButton("Vertical")) {
                 rigidbody2D.velocity = new Vector2(rigidbody2D.velocity.x, Mathf.Clamp(rigidbody2D.velocity.y, glideFallSpeed, float.MaxValue));
                 anim.SetBool(animIdGliding, rigidbody2D.velocity.y < 0);
+            } else {
+                anim.SetBool(animIdGliding, false);
             }
         }
         if (transform.localScale.x * horiz < 0) { //Invert Direction if Needed

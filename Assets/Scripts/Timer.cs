@@ -6,13 +6,14 @@ using UnityEngine.UI;
 public class Timer : MonoBehaviour {
     public float time;
     public string message;
-    public GameObject listener;
+    //public GameObject listener;
     private bool active;
     private Text text;
     private bool countUp = false;
 
     void Start() {
         text = this.GetComponent<Text>();
+        active = true;
         if (time == 0)
             countUp = true; ;
     }
@@ -25,7 +26,8 @@ public class Timer : MonoBehaviour {
         else
             text.text = string.Format(message, time);
         if (!countUp && time <= 0 && active) {
-            listener.SendMessage("OnTimeElapsed", this);
+            //listener.SendMessage("OnTimeElapsed");
+            GameObject.Find("Player").SendMessage("Kill");
             active = false;
         }
 	}

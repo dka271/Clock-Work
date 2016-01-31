@@ -9,16 +9,22 @@ public class Timer : MonoBehaviour {
     public GameObject listener;
     private bool active;
     private Text text;
+    private bool countUp = false;
 
     void Start() {
         text = this.GetComponent<Text>();
+        if (time == 0)
+            countUp = true; ;
     }
 
 	// Update is called once per frame
 	void Update () {
         time -= Time.deltaTime;
-        text.text = string.Format(message, time);
-        if (time <= 0 && active) {
+        if (countUp)
+            text.text = string.Format(message, -time);
+        else
+            text.text = string.Format(message, time);
+        if (!countUp && time <= 0 && active) {
             listener.SendMessage("OnTimeElapsed", this);
             active = false;
         }
